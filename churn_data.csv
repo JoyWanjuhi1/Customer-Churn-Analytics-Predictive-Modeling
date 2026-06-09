@@ -1,0 +1,240 @@
+﻿1001,Basic,USA,Referral,0,0.00,0,0,0,1
+1002,Basic,UK,Organic,4394,1112.00,11,2,1,0
+1003,Premium,Germany,Paid Ads,1936,596.00,11,0,0,0
+1004,Basic,Kenya,Organic,88,40.00,2,2,1,1
+1005,Enterprise,USA,Referral,2155,471.00,13,0,0,0
+1006,Premium,UK,Organic,2486,749.00,15,0,0,0
+1007,Basic,Germany,Referral,2280,445.00,11,0,0,0
+1008,Basic,Kenya,Organic,300,76.00,5,2,1,1
+1009,Premium,USA,Paid Ads,1773,616.00,11,0,0,0
+1010,Enterprise,UK,Organic,4626,1258.00,14,2,0,0
+1011,Basic,Germany,Referral,4526,1250.00,14,2,1,0
+1012,Premium,Kenya,Organic,208,46.00,3,2,1,1
+1013,Basic,USA,Referral,1716,481.00,11,0,0,0
+1014,Basic,UK,Organic,4540,1034.00,11,2,1,0
+1015,Premium,Germany,Paid Ads,0,0.00,0,0,0,1
+1016,Basic,Kenya,Organic,224,54.00,3,2,1,1
+1017,Basic,USA,Referral,5156,1378.00,14,2,1,0
+1018,Premium,UK,Organic,2320,664.00,15,0,0,0
+1019,Basic,Germany,Referral,2466,617.00,13,0,0,0
+1020,Enterprise,Kenya,Organic,244,42.00,3,2,1,1
+1021,Premium,USA,Paid Ads,2291,624.00,13,0,0,0
+1022,Basic,UK,Organic,0,0.00,0,0,0,1
+1023,Basic,Germany,Referral,4982,1322.00,10,2,1,0
+1024,Premium,Kenya,Organic,266,102.00,5,2,1,1
+1025,Enterprise,USA,Referral,2341,638.00,12,0,0,0
+1026,Basic,UK,Organic,6016,1670.00,14,2,1,0
+1027,Premium,Germany,Paid Ads,2765,690.00,14,0,0,0
+1028,Basic,Kenya,Organic,220,74.00,4,2,1,1
+1029,Basic,USA,Referral,0,0.00,0,2,1,1
+1030,Premium,UK,Organic,5530,1466.00,13,2,0,0
+1031,Basic,Germany,Referral,2320,676.00,12,0,0,0
+1032,Basic,Kenya,Organic,258,66.00,4,2,1,1
+1033,Premium,USA,Paid Ads,2679,744.00,13,0,0,0
+1034,Basic,UK,Organic,2293,626.00,13,0,0,0
+1035,Enterprise,Germany,Referral,2082,498.00,11,0,0,0
+1036,Premium,Kenya,Organic,138,72.00,3,2,1,1
+1037,Basic,USA,Referral,2821,615.00,13,0,0,0
+1038,Basic,UK,Organic,4512,1176.00,13,2,1,0
+1039,Premium,Germany,Paid Ads,2805,753.00,12,0,0,0
+1040,Enterprise,Kenya,Organic,410,124.00,5,2,1,1
+1041,Basic,USA,Referral,5356,1278.00,14,2,1,0
+1042,Premium,UK,Organic,2840,740.00,13,0,0,0
+1043,Basic,Germany,Referral,0,0.00,0,0,0,1
+1044,Basic,Kenya,Organic,304,126.00,6,2,1,1
+1045,Premium,USA,Paid Ads,1890,316.00,11,0,0,0
+1046,Basic,UK,Organic,1985,633.00,12,0,0,0
+1047,Basic,Germany,Referral,4130,1228.00,11,2,1,0
+1048,Premium,Kenya,Organic,412,100.00,6,2,1,1
+1049,Basic,USA,Referral,3019,961.00,19,0,0,0
+1050,Enterprise,UK,Organic,0,0.00,0,2,0,1
+1051,Premium,Germany,Paid Ads,2626,718.00,14,0,0,0
+1052,Basic,Kenya,Organic,182,80.00,4,2,1,1
+1053,Basic,USA,Referral,3180,870.00,11,2,1,0
+1054,Premium,UK,Organic,2020,511.00,11,0,0,0
+1055,Enterprise,Germany,Referral,2650,870.00,14,0,0,0
+1056,Basic,Kenya,Organic,222,82.00,4,2,1,1
+1057,Premium,USA,Paid Ads,0,0.00,0,0,0,1
+1058,Basic,UK,Organic,2632,772.00,14,0,0,0
+1059,Basic,Germany,Referral,4018,1402.00,12,2,1,0
+1060,Premium,Kenya,Organic,232,50.00,3,2,1,1
+1061,Basic,USA,Referral,2125,615.00,14,0,0,0
+1062,Basic,UK,Organic,4202,934.00,12,2,1,0
+1063,Premium,Germany,Paid Ads,2487,617.00,14,0,0,0
+1064,Basic,Kenya,Organic,124,74.00,3,2,1,1
+1065,Enterprise,USA,Referral,1944,571.00,12,0,0,0
+1066,Premium,UK,Organic,2107,498.00,9,0,0,0
+1067,Basic,Germany,Referral,2571,697.00,13,0,0,0
+1068,Basic,Kenya,Organic,238,66.00,4,2,1,1
+1069,Premium,USA,Paid Ads,1493,417.00,9,0,0,0
+1070,Enterprise,UK,Organic,5888,1378.00,15,2,0,0
+1071,Basic,Germany,Referral,0,0.00,0,2,1,1
+1072,Premium,Kenya,Organic,164,52.00,3,2,1,1
+1073,Basic,USA,Referral,1802,518.00,13,0,0,0
+1074,Basic,UK,Organic,5768,1856.00,14,2,1,0
+1075,Premium,Germany,Paid Ads,2197,627.00,13,0,0,0
+1076,Basic,Kenya,Organic,262,102.00,4,2,1,1
+1077,Basic,USA,Referral,5356,1370.00,12,2,1,0
+1078,Premium,UK,Organic,0,0.00,0,0,0,1
+1079,Basic,Germany,Referral,1822,378.00,11,0,0,0
+1080,Enterprise,Kenya,Organic,260,120.00,6,2,1,1
+1081,Premium,USA,Paid Ads,2296,432.00,12,0,0,0
+1082,Basic,UK,Organic,3781,1034.00,17,0,0,0
+1083,Basic,Germany,Referral,5462,1318.00,12,2,1,0
+1084,Premium,Kenya,Organic,194,50.00,3,2,1,1
+1085,Enterprise,USA,Referral,0,0.00,0,0,0,1
+1086,Basic,UK,Organic,6902,1564.00,15,2,1,0
+1087,Premium,Germany,Paid Ads,2532,731.00,13,0,0,0
+1088,Basic,Kenya,Organic,200,54.00,3,2,1,1
+1089,Basic,USA,Referral,5260,1556.00,15,2,1,0
+1090,Premium,UK,Organic,5262,1096.00,13,2,0,0
+1091,Basic,Germany,Referral,3360,816.00,12,0,0,0
+1092,Basic,Kenya,Organic,226,92.00,4,2,1,1
+1093,Premium,USA,Paid Ads,2777,602.00,9,0,0,0
+1094,Basic,UK,Organic,1954,483.00,11,0,0,0
+1095,Enterprise,Germany,Referral,1616,430.00,9,0,0,0
+1096,Premium,Kenya,Organic,226,60.00,3,2,1,1
+1097,Basic,USA,Referral,2358,772.00,14,0,0,0
+1098,Basic,UK,Organic,5932,1644.00,16,2,1,0
+1099,Premium,Germany,Paid Ads,0,0.00,0,0,0,1
+1100,Enterprise,Kenya,Organic,124,32.00,3,2,1,1
+1101,Basic,USA,Referral,5854,1328.00,16,2,1,0
+1102,Premium,UK,Organic,1927,519.00,12,0,0,0
+1103,Basic,Germany,Referral,2051,556.00,12,0,0,0
+1104,Basic,Kenya,Organic,126,44.00,2,2,1,1
+1105,Premium,USA,Paid Ads,2900,581.00,14,0,0,0
+1106,Basic,UK,Organic,0,0.00,0,0,0,1
+1107,Basic,Germany,Referral,5698,1406.00,13,2,1,0
+1108,Premium,Kenya,Organic,320,118.00,6,2,1,1
+1109,Basic,USA,Referral,2239,628.00,14,0,0,0
+1110,Enterprise,UK,Organic,6388,1852.00,13,2,0,0
+1111,Premium,Germany,Paid Ads,2068,445.00,15,0,0,0
+1112,Basic,Kenya,Organic,130,62.00,3,2,1,1
+1113,Basic,USA,Referral,0,0.00,0,2,1,1
+1114,Premium,UK,Organic,2144,689.00,13,0,0,0
+1115,Enterprise,Germany,Referral,2393,637.00,14,0,0,0
+1116,Basic,Kenya,Organic,308,78.00,4,2,1,1
+1117,Premium,USA,Paid Ads,1527,454.00,10,0,0,0
+1118,Basic,UK,Organic,2527,592.00,12,0,0,0
+1119,Basic,Germany,Referral,4184,1164.00,10,2,1,0
+1120,Premium,Kenya,Organic,274,128.00,5,2,1,1
+1121,Basic,USA,Referral,924,251.00,7,0,0,0
+1122,Basic,UK,Organic,641,226.00,4,1,1,0
+1123,Premium,Germany,Paid Ads,1162,348.00,6,0,0,0
+1124,Basic,Kenya,Organic,103,34.00,3,1,1,1
+1125,Enterprise,USA,Referral,742,255.00,7,0,0,0
+1126,Premium,UK,Organic,819,159.00,6,0,0,0
+1127,Basic,Germany,Referral,0,0.00,0,0,0,1
+1128,Basic,Kenya,Organic,44,23.00,2,1,1,1
+1129,Premium,USA,Paid Ads,1302,259.00,8,0,0,0
+1130,Enterprise,UK,Organic,1520,416.00,9,1,0,0
+1131,Basic,Germany,Referral,1361,304.00,8,1,1,0
+1132,Premium,Kenya,Organic,65,22.00,2,1,1,1
+1133,Basic,USA,Referral,1026,283.00,7,0,0,0
+1134,Basic,UK,Organic,0,0.00,0,1,1,1
+1135,Premium,Germany,Paid Ads,819,273.00,6,0,0,0
+1136,Basic,Kenya,Organic,124,20.00,3,1,1,1
+1137,Basic,USA,Referral,1605,335.00,7,1,1,0
+1138,Premium,UK,Organic,636,200.00,5,0,0,0
+1139,Basic,Germany,Referral,1323,261.00,7,0,0,0
+1140,Enterprise,Kenya,Organic,76,32.00,3,1,1,1
+1141,Premium,USA,Paid Ads,0,0.00,0,0,0,1
+1142,Basic,UK,Organic,1787,444.00,10,0,0,0
+1143,Basic,Germany,Referral,1260,327.00,6,1,1,0
+1144,Premium,Kenya,Organic,79,23.00,2,1,1,1
+1145,Enterprise,USA,Referral,1864,457.00,10,0,0,0
+1146,Basic,UK,Organic,815,213.00,5,1,1,0
+1147,Premium,Germany,Paid Ads,986,346.00,7,0,0,0
+1148,Basic,Kenya,Organic,24,10.00,1,1,1,1
+1149,Basic,USA,Referral,1859,503.00,11,1,1,0
+1150,Premium,UK,Organic,1851,418.00,11,1,0,0
+1151,Basic,Germany,Referral,1253,300.00,7,0,0,0
+1152,Basic,Kenya,Organic,46,17.00,2,1,1,1
+1153,Premium,USA,Paid Ads,1029,296.00,7,0,0,0
+1154,Basic,UK,Organic,1603,406.00,7,0,0,0
+1155,Enterprise,Germany,Referral,0,0.00,0,0,0,1
+1156,Premium,Kenya,Organic,80,18.00,2,1,1,1
+1157,Basic,USA,Referral,1073,284.00,8,0,0,0
+1158,Basic,UK,Organic,1159,311.00,7,1,1,0
+1159,Premium,Germany,Paid Ads,1178,375.00,9,0,0,0
+1160,Enterprise,Kenya,Organic,79,20.00,3,1,1,1
+1161,Basic,USA,Referral,1028,304.00,6,1,1,0
+1162,Premium,UK,Organic,0,0.00,0,0,0,1
+1163,Basic,Germany,Referral,844,195.00,5,0,0,0
+1164,Basic,Kenya,Organic,85,29.00,3,1,1,1
+1165,Premium,USA,Paid Ads,1514,308.00,7,0,0,0
+1166,Basic,UK,Organic,684,203.00,5,0,0,0
+1167,Basic,Germany,Referral,1914,451.00,8,1,1,0
+1168,Premium,Kenya,Organic,44,6.00,1,1,1,1
+1169,Basic,USA,Referral,0,0.00,0,0,0,1
+1170,Enterprise,UK,Organic,1540,370.00,9,1,0,0
+1171,Premium,Germany,Paid Ads,780,242.00,6,0,0,0
+1172,Basic,Kenya,Organic,77,19.00,2,1,1,1
+1173,Basic,USA,Referral,715,240.00,5,1,1,0
+1174,Premium,UK,Organic,1722,434.00,7,0,0,0
+1175,Enterprise,Germany,Referral,632,213.00,4,0,0,0
+1176,Basic,Kenya,Organic,10,8.00,1,1,1,1
+1177,Premium,USA,Paid Ads,1664,379.00,9,0,0,0
+1178,Basic,UK,Organic,1413,434.00,9,0,0,0
+1179,Basic,Germany,Referral,1740,533.00,10,1,1,0
+1180,Premium,Kenya,Organic,59,24.00,3,1,1,1
+1181,Basic,USA,Referral,1361,339.00,8,0,0,0
+1182,Basic,UK,Organic,1385,334.00,6,1,1,0
+1183,Premium,Germany,Paid Ads,0,0.00,0,0,0,1
+1184,Basic,Kenya,Organic,20,11.00,1,1,1,1
+1185,Enterprise,USA,Referral,846,289.00,6,0,0,0
+1186,Premium,UK,Organic,1533,414.00,6,0,0,0
+1187,Basic,Germany,Referral,1440,264.00,7,0,0,0
+1188,Basic,Kenya,Organic,14,13.00,1,1,1,1
+1189,Premium,USA,Paid Ads,1748,499.00,10,0,0,0
+1190,Enterprise,UK,Organic,0,0.00,0,1,0,1
+1191,Basic,Germany,Referral,1244,356.00,7,1,1,0
+1192,Premium,Kenya,Organic,31,7.00,1,1,1,1
+1193,Basic,USA,Referral,915,208.00,6,0,0,0
+1194,Basic,UK,Organic,2094,436.00,9,1,1,0
+1195,Premium,Germany,Paid Ads,1027,267.00,5,0,0,0
+1196,Basic,Kenya,Organic,95,29.00,3,1,1,1
+1197,Basic,USA,Referral,0,0.00,0,1,1,1
+1198,Premium,UK,Organic,1436,382.00,8,0,0,0
+1199,Basic,Germany,Referral,737,226.00,5,0,0,0
+1200,Enterprise,Kenya,Organic,63,21.00,3,1,1,1
+1201,Premium,USA,Paid Ads,1038,281.00,6,0,0,0
+1202,Basic,UK,Organic,1001,209.00,4,0,0,0
+1203,Basic,Germany,Referral,1549,433.00,9,1,1,0
+1204,Premium,Kenya,Organic,47,15.00,2,1,1,1
+1205,Enterprise,USA,Referral,1284,311.00,8,0,0,0
+1206,Basic,UK,Organic,1788,416.00,9,1,1,0
+1207,Premium,Germany,Paid Ads,1724,415.00,9,0,0,0
+1208,Basic,Kenya,Organic,45,5.00,1,1,1,1
+1209,Basic,USA,Referral,1106,315.00,7,1,1,0
+1210,Premium,UK,Organic,1107,315.00,6,1,0,0
+1211,Basic,Germany,Referral,0,0.00,0,0,0,1
+1212,Basic,Kenya,Organic,47,7.00,1,1,1,1
+1213,Premium,USA,Paid Ads,1005,204.00,6,0,0,0
+1214,Basic,UK,Organic,697,210.00,5,0,0,0
+1215,Enterprise,Germany,Referral,1087,333.00,6,0,0,0
+1216,Premium,Kenya,Organic,21,12.00,1,1,1,1
+1217,Basic,USA,Referral,1545,433.00,10,0,0,0
+1218,Basic,UK,Organic,0,0.00,0,1,1,1
+1219,Premium,Germany,Paid Ads,1490,403.00,10,0,0,0
+1220,Enterprise,Kenya,Organic,28,10.00,1,1,1,1
+1221,Basic,USA,Referral,1496,355.00,11,1,1,0
+1222,Premium,UK,Organic,1360,298.00,9,0,0,0
+1223,Basic,Germany,Referral,1451,446.00,9,0,0,0
+1224,Basic,Kenya,Organic,32,7.00,1,1,1,1
+1225,Premium,USA,Paid Ads,0,0.00,0,0,0,1
+1226,Basic,UK,Organic,978,220.00,6,0,0,0
+1227,Basic,Germany,Referral,1439,377.00,10,1,1,0
+1228,Premium,Kenya,Organic,62,21.00,2,1,1,1
+1229,Basic,USA,Referral,1359,345.00,9,0,0,0
+1230,Enterprise,UK,Organic,1146,388.00,7,1,0,0
+1231,Premium,Germany,Paid Ads,1741,400.00,9,0,0,0
+1232,Basic,Kenya,Organic,28,13.00,1,1,1,1
+1233,Basic,USA,Referral,1477,402.00,7,1,1,0
+1234,Premium,UK,Organic,1102,214.00,6,0,0,0
+1235,Enterprise,Germany,Referral,1412,291.00,7,0,0,0
+1236,Basic,Kenya,Organic,23,5.00,1,1,1,1
+1237,Premium,USA,Paid Ads,1162,373.00,7,0,0,0
+1238,Basic,UK,Organic,1085,283.00,7,0,0,0
+1239,Basic,Germany,Referral,0,0.00,0,1,1,1
+1240,Premium,Kenya,Organic,112,21.00,3,1,1,1
